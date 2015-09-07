@@ -13,7 +13,6 @@ Options:
     -l          Language
     -o          The output file
 
-© Systran
 """
 
 
